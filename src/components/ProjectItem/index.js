@@ -23,6 +23,8 @@ const ProjectItem = props => {
             <button className="visit-button">Visit Project</button>
             </div>
             <img className="project-image" alt="images" src={images[randomPic]}/>
+
+    
             
         </div>
     )
