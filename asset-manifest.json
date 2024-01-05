@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Fincity-Assignment/static/css/main.a45f832e.css",
-    "main.js": "/Fincity-Assignment/static/js/main.d0e3982a.js",
+    "main.js": "/Fincity-Assignment/static/js/main.816c31a5.js",
     "static/js/787.d4aba7ab.chunk.js": "/Fincity-Assignment/static/js/787.d4aba7ab.chunk.js",
     "index.html": "/Fincity-Assignment/index.html",
     "main.a45f832e.css.map": "/Fincity-Assignment/static/css/main.a45f832e.css.map",
-    "main.d0e3982a.js.map": "/Fincity-Assignment/static/js/main.d0e3982a.js.map",
+    "main.816c31a5.js.map": "/Fincity-Assignment/static/js/main.816c31a5.js.map",
     "787.d4aba7ab.chunk.js.map": "/Fincity-Assignment/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a45f832e.css",
-    "static/js/main.d0e3982a.js"
+    "static/js/main.816c31a5.js"
   ]
 }
