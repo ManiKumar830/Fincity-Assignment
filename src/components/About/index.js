@@ -18,7 +18,7 @@ const About = () => (
           <button className='linkedIn-buttom'>LinkedIn</button>
         </div>
      </div>
-      <img alt='logo' className='image' src="https://hmp.me/ebw0"/>
+      <img alt='logo' className='image' src="https://patryktarachon.pl/wp-content/uploads/2021/04/Powody-do-szczescia-fot.-Artem-Beliaikin-Patryk-Tarachon-2021.jpg"/>
       </div>
 
      
