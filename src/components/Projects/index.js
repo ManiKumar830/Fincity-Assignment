@@ -43,7 +43,7 @@ class Projects extends Component {
 
     render() {
         const {projectsList, projectName, projectDescription, projectLink} = this.state
-        console.log(projectsList)
+        
         return (
             <div className='add-project-container'>
             <h1 className='add-project-text'>Add Project</h1>
@@ -82,9 +82,9 @@ class Projects extends Component {
             </div>
 
             <div>
-                        <AiFillInstagram className="logos"/>
-                        <FaLinkedin className="logos" />
-                        <IoMdMail className="logos"/>
+                <AiFillInstagram className="logos"/>
+                <FaLinkedin className="logos" />
+                <IoMdMail className="logos"/>
             </div>
             <p>Copyright © 2024.  All rights reserved</p>
      </div>
