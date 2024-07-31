@@ -3,10 +3,12 @@
     justify-content: space-between;
     align-items: center;
     padding: 32px;
-    padding-left: 95px;
-    padding-right: 95px;
+    padding-left: 50px;
+    
   }
-  
+.logo-image {
+  width: 100%;
+}  
   @media (max-width: 575px) {
     .header-container {
       padding: 15px;
@@ -16,23 +18,6 @@
   .logo-and-title-container {
     display: flex;
     align-items: center;
-  }
-  
-  
-  .title {
-    color: #12022f;
-    
-    font-size: 16px;
-    
-  }
-  
-  .nav-items-list {
-    display: flex;
-    padding-left: 0px;
-  }
-  
-  .link-item {
-    list-style-type: none;
   }
   
   .route-link {

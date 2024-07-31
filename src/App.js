@@ -2,7 +2,6 @@
 import { Routes, Route,BrowserRouter as Router } from "react-router-dom";
 import Header from "./components/Header";
 import About from "./components/About";
-import Projects from "./components/Projects"
 import './App.css';
 
 function App() {
@@ -10,9 +9,10 @@ function App() {
     <div className="App">
       <Router>
       <Header/>
+      <About/>
       <Routes>   
-        <Route exact path="/" element={<About />} />
-        <Route exact path="/projects" element={<Projects />} />
+        <Route  element={<About />} />
+       
         </Routes>
       </Router>
     </div>
